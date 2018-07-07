@@ -3,11 +3,8 @@
 #define STB_IMAGE_WRITE_IMPLEMENTATION
 #include <stb_image_write.h>
 
-#include <vector>
 #include <cstring>
 #include <iostream>
-#include <algorithm>
-#include <unordered_map>
 
 using namespace std;
 
